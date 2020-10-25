@@ -10,6 +10,11 @@
       "StackName": "amplify-sticky-dev-00459",
       "StackId": "arn:aws:cloudformation:us-east-2:532826754249:stack/amplify-sticky-dev-00459/a30a29e0-1627-11eb-a954-022fd555c652",
       "AmplifyAppId": "d2nt284edp3ys2"
+    },
+    "categories": {
+      "auth": {
+        "sticky7d595b87": {}
+      }
     }
   }
 }
